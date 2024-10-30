@@ -77,19 +77,13 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
    
    Tela principal do app, onde é possivel ver os cadastros e pesquisar por eles.
    
-![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/telaprincipal.jpg?raw=true)
+![Texto Alternativo](https://github.com/Kist19/WalkApp/blob/master/telaprincipal_walkapp.jpg?raw=true)
 
 2. **Tela Cadastro**
    
    Onde o cadastro é criado para ser apresentado na tela principal.
    
-![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/cadastrologin.jpg?raw=true)
-
-3. **Tela Autenticação**
-   
-   Onde o cadastro é criado para ser apresentado na tela principal.
-   
-![Texto Alternativo](https://github.com/Kist19/AppLogin/blob/master/autenticacao.jpg?raw=true)
+![Texto Alternativo](https://github.com/Kist19/WalkApp/blob/master/imc_walkapp.jpg?raw=true)
 
 ## 👨‍💻 Desenvolvedores
 
@@ -97,4 +91,4 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
  ## ✅ Licença 
  
- [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppLogin/blob/master/LICENSE)
+ [![NPM](https://github.com/Kist19/WalkApp/blob/master/LICENSE)
