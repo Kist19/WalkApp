@@ -1,15 +1,15 @@
-# **App Agenda**
+# **Walk App**
 
-> Aplicativo que cadastra e lista seus usuários.
+> Aplicativo que Cácula a distancia percorrida e o IMC.
 
 ## 📱 Descrição
 
-O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
+O **Walk App** Cácula a distancia percorrida e o IMC.
 
 ## 🔧 Funcionalidades
 
-- [x] Entrada de dados (Nome, CPF e Telefone)
-- [x] Pesquisa de usuários
+- [x] Entrada de dados (QuantidadeDePassos, Peso e Altura)
+- [x] Cálcula a Quantidade de passos e o IMC
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -17,8 +17,8 @@ O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
 - [x] **Android Studio** (Koala | 2024.1.2)
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
-- [x] **TextView**, **EditText**, **ListView** para entrada e exibição de dados
-- [x] **Menu** para cadastrar e pesquisar usuário
+- [x] **TextView**, **EditText**, **RadioButton** para entrada e exibição de dados
+- [x] **Button** para cálcular a distancia e o IMC
 
 ## 🛠️ Como Rodar o Projeto
 
@@ -73,15 +73,15 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
  ## 🖥️ Telas do Aplicativo
 
-1. **Tela Principal**
+## 1. Tela Principal
    
-   Tela principal do app, onde é possivel ver os cadastros e pesquisar por eles.
+   Onde é feito com cálculo da distancia, usando **Quantidade de passos** e **distancia do passo** para calcular.
    
 ![Texto Alternativo](https://github.com/Kist19/WalkApp/blob/master/telaprincipal_walkapp.jpg?raw=true)
 
-2. **Tela Cadastro**
+## 2. Calculo do IMC
    
-   Onde o cadastro é criado para ser apresentado na tela principal.
+   Usando o **Peso** e **Altura** para fazer o cálculo do IMC.
    
 ![Texto Alternativo](https://github.com/Kist19/WalkApp/blob/master/imc_walkapp.jpg?raw=true)
 
