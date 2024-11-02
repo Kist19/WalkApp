@@ -1,15 +1,16 @@
 # **Walk App**
 
-> Aplicativo que Cácula a distancia percorrida e o IMC.
+> Aplicativo que realiza o Cálculo de uma **distancia percorrida** e **IMC**.
 
 ## 📱 Descrição
 
-O **Walk App** Cácula a distancia percorrida e o IMC.
+O **Walk App** pede a inserção de dados para realizar o Cáculo a distancia percorrida e o IMC.
 
 ## 🔧 Funcionalidades
 
 - [x] Entrada de dados (QuantidadeDePassos, Peso e Altura)
-- [x] Cálcula a Quantidade de passos e o IMC
+- [x] Cálculo da Quantidade de passos e o IMC
+- [x] Apresentação de dados
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -40,30 +41,18 @@ Siga os passos abaixo para rodar o projeto localmente:
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │  ├── java/com/example/imccalculator
-│   │   │  │  ├── MainActivity.java # Atividade principal com cálculo do IMC
-│   │   │  ├──res
+│   │   │  ├── java/br/com/senacrs/usuario/walkapp
+│   │   │  │  ├── MainActivity.java           # Atividade principal com WalkApp
+│   │   │  │  ├── imcActivity.java
+│   │   │  ├── res
 │   │   │  │   ├── layout
-│   │   │  │   │   ├── activity_main.xml   #Layout da tela principal
-│   │   │  
-│   └── values
-
-
-│   │   │  
-│       ├──
-strings.xml         # Strings usadas no
-app
-
-
-│   │   │  
-│       ├── colors.xml          # Cores definidas no projeto
-
-
-│   └── build.gradle                        # Configuração do
-Gradle
-
-
-└── README.md                               # Este arquivo
+│   │   │  │   │   ├── activity_main.xml     #Layout da tela principal
+│   │   │  │   │   ├── imc.xml     
+│   │   │  │   └── values
+│   │   │  │       ├── strings.xml           # Strings usadas no app
+│   │   │  │       ├── colors.xml            # Cores definidas no projeto
+│   └── build.gradle                         # Configuração do Gradle
+└── README.md                                # Este arquivo
 ```
 ## 🎨 Design e Prototipagem
  
@@ -75,7 +64,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## 1. Tela Principal
    
-   Onde é feito com cálculo da distancia, usando **Quantidade de passos** e **distancia do passo** para calcular.
+   Cálculo da distancia, usando **Quantidade de passos** e **distancia do passo** para realizar o cálculo.
    
 ![Texto Alternativo](https://github.com/Kist19/WalkApp/blob/master/telaprincipal_walkapp.jpg?raw=true)
 
