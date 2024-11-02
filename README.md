@@ -42,7 +42,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 │   ├── src
 │   │   ├── main
 │   │   │  ├── java/br/com/senacrs/usuario/walkapp
-│   │   │  │  ├── MainActivity.java           # Atividade principal com WalkApp
+│   │   │  │  ├── MainActivity.java          # Atividade principal com WalkApp
 │   │   │  │  ├── imcActivity.java
 │   │   │  ├── res
 │   │   │  │   ├── layout
