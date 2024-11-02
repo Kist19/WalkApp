@@ -68,7 +68,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
    
 ![Texto Alternativo](https://github.com/Kist19/WalkApp/blob/master/telaprincipal_walkapp.jpg?raw=true)
 
-## 2. Calculo do IMC
+## 2. Cálculo do IMC
    
    Usando o **Peso** e **Altura** para fazer o cálculo do IMC.
    
