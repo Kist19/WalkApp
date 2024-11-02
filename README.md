@@ -80,4 +80,4 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
  ## ✅ Licença 
  
- [![NPM](https://github.com/Kist19/WalkApp/blob/master/LICENSE)
+ [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/WalkApp/blob/master/LICENSE)
